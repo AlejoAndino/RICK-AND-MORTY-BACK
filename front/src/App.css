@@ -1,0 +1,20 @@
+.App {
+   text-align: center;
+   background-image: url(./assets/Polaris_\(star\).jpg);
+   height: 100vh;
+   padding: 20px;
+}
+
+.container_card {
+   display: flex;
+   justify-content: center;
+   padding-top: 50px;
+}
+
+/* .container_cards {
+   display: flex;
+   flex-direction: row;
+} */
+
+.container_searchBar {
+}
